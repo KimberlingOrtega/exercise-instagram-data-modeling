@@ -1,4 +1,4 @@
-FROM gitpod/workspace-full
+FROM gitpod/workspace-full:2022-06-20-19-54-55
 # Install image generator
 USER gitpod
 RUN sudo apt-get update \ 
